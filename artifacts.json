@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/HaoyuFu2/artifact-directory-template.git",
+    "project-repository": "https://github.com/HaoyuFu2/DSC180B_Twitter_Political_Analysis.git",
+    "project-website-url": "https://haoyufu2.github.io/Twitter_Analysis_Website/",
+    "project-website-code": "https://github.com/HaoyuFu2/Twitter_Analysis_Website.git"
 }

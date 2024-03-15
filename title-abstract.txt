@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Predicting Political Affiliations of Social Media Users
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Traditional methods for political polling often focus on the political opinions of a society as either an integrity or some groups. We present a novel approach to predict the political positions in the scale of individuals, which helps the exploration on the latent logics of the political trends. By conducting in-depth sentiment analysis and manual labeling on a selected sample of Twitter users, this project aims to train a model to learn the public’s stance on specific socio-political issues and predict responses to new survey questions. The research methods include applying natural language processing techniques to analyze user tweets, and utilizing pre-trained GPT-2 for generating semantic embeddings of questions, which leads to the design of a neural network model capable of accurately predicting user opinions. To enhance the model’s generalization ability, strategies such as cross-layers and deep cross-network were employed to prevent overfitting.
